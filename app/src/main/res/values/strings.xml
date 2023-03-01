@@ -1,3 +1,7 @@
 <resources>
+<<<<<<< HEAD
     <string name="app_name">SectionInRecyclerView</string>
+=======
+    <string name="app_name">DoubleRecycler</string>
+>>>>>>> 05fe71f017dac2938f3febb72396908707db2f32
 </resources>
